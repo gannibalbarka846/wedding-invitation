@@ -9,9 +9,9 @@ yangilab, qayta ishga tushiring:  python3 generate_og_image.py
 
 from PIL import Image, ImageDraw, ImageFont
 
-GROOM_NAME = "Aziz"
-BRIDE_NAME = "Malika"
-DATE_TEXT = "12-sentabr, 2026-yil"
+GROOM_NAME = "Abdulaziz"
+BRIDE_NAME = "Elinura"
+DATE_TEXT = "24-oktabr, 2026-yil"
 EYEBROW_TEXT = "TO'Y TAKLIFNOMASI"
 
 WIDTH, HEIGHT = 1200, 630
